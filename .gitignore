@@ -1,2 +1,4 @@
 bert_t5_gpt/distilbert-base-uncased_emotion_ft_0911/
 bert_t5_gpt/distilbert-base-uncased-ft-clinc/
+personal_chatgpt/bloom-7b1-lora-0927/
+personal_chatgpt/llama-2-7b-miniguanaco_0918/
